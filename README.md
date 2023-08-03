@@ -20,7 +20,7 @@ A small Python script used to parse and extract the subdomains from crt.sh searc
 python3 crt_sh_parser.py DOMAIN
 
 ```
-The result can be writen to file (or piped).
+The result can be written to file (or piped).
 ```javascript
 python3 crt_sh_parser.py DOMAIN > somefile
 
